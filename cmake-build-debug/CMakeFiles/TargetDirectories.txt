@@ -1,0 +1,6 @@
+C:/Users/nkomi/OneDrive/Рабочий стол/ВШЭ/АиСД/set 9/cmake-build-debug/CMakeFiles/set_9_P1.dir
+C:/Users/nkomi/OneDrive/Рабочий стол/ВШЭ/АиСД/set 9/cmake-build-debug/CMakeFiles/set_9_P2.dir
+C:/Users/nkomi/OneDrive/Рабочий стол/ВШЭ/АиСД/set 9/cmake-build-debug/CMakeFiles/set_9_P3.dir
+C:/Users/nkomi/OneDrive/Рабочий стол/ВШЭ/АиСД/set 9/cmake-build-debug/CMakeFiles/run_all.dir
+C:/Users/nkomi/OneDrive/Рабочий стол/ВШЭ/АиСД/set 9/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/nkomi/OneDrive/Рабочий стол/ВШЭ/АиСД/set 9/cmake-build-debug/CMakeFiles/rebuild_cache.dir

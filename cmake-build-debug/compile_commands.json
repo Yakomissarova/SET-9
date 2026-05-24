@@ -1,0 +1,44 @@
+[
+{
+  "directory": "C:/Users/nkomi/OneDrive/Рабочий стол/ВШЭ/АиСД/set 9/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -g -fdiagnostics-color=always -o CMakeFiles\\set_9_P1.dir\\Codeforces\\P1.cpp.obj -c \"C:\\Users\\nkomi\\OneDrive\\Рабочий стол\\ВШЭ\\АиСД\\set 9\\Codeforces\\P1.cpp\"",
+  "file": "C:/Users/nkomi/OneDrive/Рабочий стол/ВШЭ/АиСД/set 9/Codeforces/P1.cpp",
+  "output": "C:/Users/nkomi/OneDrive/Рабочий стол/ВШЭ/АиСД/set 9/cmake-build-debug/CMakeFiles/set_9_P1.dir/Codeforces/P1.cpp.obj"
+},
+{
+  "directory": "C:/Users/nkomi/OneDrive/Рабочий стол/ВШЭ/АиСД/set 9/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -g -fdiagnostics-color=always -o CMakeFiles\\set_9_P2.dir\\Codeforces\\P2.cpp.obj -c \"C:\\Users\\nkomi\\OneDrive\\Рабочий стол\\ВШЭ\\АиСД\\set 9\\Codeforces\\P2.cpp\"",
+  "file": "C:/Users/nkomi/OneDrive/Рабочий стол/ВШЭ/АиСД/set 9/Codeforces/P2.cpp",
+  "output": "C:/Users/nkomi/OneDrive/Рабочий стол/ВШЭ/АиСД/set 9/cmake-build-debug/CMakeFiles/set_9_P2.dir/Codeforces/P2.cpp.obj"
+},
+{
+  "directory": "C:/Users/nkomi/OneDrive/Рабочий стол/ВШЭ/АиСД/set 9/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -g -fdiagnostics-color=always -o CMakeFiles\\set_9_P3.dir\\Codeforces\\P3.cpp.obj -c \"C:\\Users\\nkomi\\OneDrive\\Рабочий стол\\ВШЭ\\АиСД\\set 9\\Codeforces\\P3.cpp\"",
+  "file": "C:/Users/nkomi/OneDrive/Рабочий стол/ВШЭ/АиСД/set 9/Codeforces/P3.cpp",
+  "output": "C:/Users/nkomi/OneDrive/Рабочий стол/ВШЭ/АиСД/set 9/cmake-build-debug/CMakeFiles/set_9_P3.dir/Codeforces/P3.cpp.obj"
+},
+{
+  "directory": "C:/Users/nkomi/OneDrive/Рабочий стол/ВШЭ/АиСД/set 9/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -g -fdiagnostics-color=always -o CMakeFiles\\run_all.dir\\src\\main.cpp.obj -c \"C:\\Users\\nkomi\\OneDrive\\Рабочий стол\\ВШЭ\\АиСД\\set 9\\src\\main.cpp\"",
+  "file": "C:/Users/nkomi/OneDrive/Рабочий стол/ВШЭ/АиСД/set 9/src/main.cpp",
+  "output": "C:/Users/nkomi/OneDrive/Рабочий стол/ВШЭ/АиСД/set 9/cmake-build-debug/CMakeFiles/run_all.dir/src/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/nkomi/OneDrive/Рабочий стол/ВШЭ/АиСД/set 9/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -g -fdiagnostics-color=always -o CMakeFiles\\run_all.dir\\src\\string_generator.cpp.obj -c \"C:\\Users\\nkomi\\OneDrive\\Рабочий стол\\ВШЭ\\АиСД\\set 9\\src\\string_generator.cpp\"",
+  "file": "C:/Users/nkomi/OneDrive/Рабочий стол/ВШЭ/АиСД/set 9/src/string_generator.cpp",
+  "output": "C:/Users/nkomi/OneDrive/Рабочий стол/ВШЭ/АиСД/set 9/cmake-build-debug/CMakeFiles/run_all.dir/src/string_generator.cpp.obj"
+},
+{
+  "directory": "C:/Users/nkomi/OneDrive/Рабочий стол/ВШЭ/АиСД/set 9/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -g -fdiagnostics-color=always -o CMakeFiles\\run_all.dir\\src\\string_sort_tester.cpp.obj -c \"C:\\Users\\nkomi\\OneDrive\\Рабочий стол\\ВШЭ\\АиСД\\set 9\\src\\string_sort_tester.cpp\"",
+  "file": "C:/Users/nkomi/OneDrive/Рабочий стол/ВШЭ/АиСД/set 9/src/string_sort_tester.cpp",
+  "output": "C:/Users/nkomi/OneDrive/Рабочий стол/ВШЭ/АиСД/set 9/cmake-build-debug/CMakeFiles/run_all.dir/src/string_sort_tester.cpp.obj"
+},
+{
+  "directory": "C:/Users/nkomi/OneDrive/Рабочий стол/ВШЭ/АиСД/set 9/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -g -fdiagnostics-color=always -o CMakeFiles\\run_all.dir\\src\\sorts.cpp.obj -c \"C:\\Users\\nkomi\\OneDrive\\Рабочий стол\\ВШЭ\\АиСД\\set 9\\src\\sorts.cpp\"",
+  "file": "C:/Users/nkomi/OneDrive/Рабочий стол/ВШЭ/АиСД/set 9/src/sorts.cpp",
+  "output": "C:/Users/nkomi/OneDrive/Рабочий стол/ВШЭ/АиСД/set 9/cmake-build-debug/CMakeFiles/run_all.dir/src/sorts.cpp.obj"
+}
+]

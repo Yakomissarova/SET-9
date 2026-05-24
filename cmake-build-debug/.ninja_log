@@ -1,0 +1,6 @@
+# ninja log v7
+103	1259	8013208886825089	CMakeFiles/run_all.dir/src/sorts.cpp.obj	f832bc32c2861127
+76	1291	8013208886559912	CMakeFiles/run_all.dir/src/string_generator.cpp.obj	b0fac7a9a9983467
+60	1450	8013208886398598	CMakeFiles/run_all.dir/src/main.cpp.obj	586a61dd50853580
+88	1656	8013208886681933	CMakeFiles/run_all.dir/src/string_sort_tester.cpp.obj	e51e141f4c9026ba
+1657	2165	8013208902363305	run_all.exe	f4455d2f47873c1d
